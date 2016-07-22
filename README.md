@@ -1,12 +1,5 @@
 # Handling Concurrent User Restrictions With an External Service
 
-## Requirements
-
-## Assumptions
-
-* We want to minimize user wait time as best as possible.
-* Real-time response > cached response > timeout/long delays/never-ending queues/poor UX
-
 ## Methods
 
 For this exercise, I've implemented a few different solutions each as its own method. Each method
@@ -33,8 +26,6 @@ that I'd have access to an ORM, caching functionality, and an easy to way to mak
 I've chosen to use a file system cache for simplicity's sake when deploying to Heroku. Memcached or Redis would 
 probably be faster and a better option in a real world application.
 
-If I chose to use a database for the cache for this exercise, per Laravel 
-
 In general, the ability to use caching in a real world application depends highly on the functionality 
 of the service being called. For example, if you're attempting to post a payment to a payment service, it's
 obviously not acceptable to simply ignore a failed response and return a cached value to the user. However, if 
@@ -43,8 +34,6 @@ mitigated by an AJAX request on the page to update realtime information, a notic
 delay in processing information, or a notification that the site is under heavy activity).
 
 #### On real world implementation...
-
-For this exercise,...
 
 For a real application, the external service would probably have some required parameters,
 likely related to the user performing the request. In most cases, I'd expect that the cached requests 
