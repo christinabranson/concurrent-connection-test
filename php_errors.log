@@ -1,0 +1,276 @@
+[20-Jul-2016 19:21:36 UTC] PHP Warning:  The use statement with non-compound name 'Log' has no effect in /home/ubuntu/workspace/app/app/Http/routes.php on line 3
+[20-Jul-2016 19:21:36 UTC] PHP Stack trace:
+[20-Jul-2016 19:21:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/public/index.php:0
+[20-Jul-2016 19:21:36 UTC] PHP   2. require() /home/ubuntu/workspace/app/public/index.php:14
+[20-Jul-2016 19:21:36 UTC] PHP   3. Laravel\Lumen\Application->group() /home/ubuntu/workspace/app/bootstrap/app.php:98
+[20-Jul-2016 19:21:36 UTC] PHP   4. call_user_func:{/home/ubuntu/workspace/app/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:92}() /home/ubuntu/workspace/app/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:92
+[20-Jul-2016 19:21:36 UTC] PHP   5. {closure:/home/ubuntu/workspace/app/bootstrap/app.php:96-98}() /home/ubuntu/workspace/app/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:92
+[20-Jul-2016 19:21:36 UTC] PHP Fatal error:  Class 'Log' not found in /home/ubuntu/workspace/app/app/Http/routes.php on line 22
+[20-Jul-2016 19:21:36 UTC] PHP Stack trace:
+[20-Jul-2016 19:21:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/public/index.php:0
+[20-Jul-2016 19:21:36 UTC] PHP   2. Laravel\Lumen\Application->run() /home/ubuntu/workspace/app/public/index.php:28
+[20-Jul-2016 19:21:36 UTC] PHP   3. Laravel\Lumen\Application->dispatch() /home/ubuntu/workspace/app/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:334
+[20-Jul-2016 19:21:36 UTC] PHP   4. Laravel\Lumen\Application->sendThroughPipeline() /home/ubuntu/workspace/app/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:389
+[20-Jul-2016 19:21:36 UTC] PHP   5. Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}() /home/ubuntu/workspace/app/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:636
+[20-Jul-2016 19:21:36 UTC] PHP   6. Laravel\Lumen\Application->handleFoundRoute() /home/ubuntu/workspace/app/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:383
+[20-Jul-2016 19:21:36 UTC] PHP   7. Laravel\Lumen\Application->callActionOnArrayBasedRoute() /home/ubuntu/workspace/app/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:486
+[20-Jul-2016 19:21:36 UTC] PHP   8. Illuminate\Container\Container->call() /home/ubuntu/workspace/app/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:512
+[20-Jul-2016 19:21:36 UTC] PHP   9. call_user_func_array:{/home/ubuntu/workspace/app/vendor/illuminate/container/Container.php:507}() /home/ubuntu/workspace/app/vendor/illuminate/container/Container.php:507
+[20-Jul-2016 19:21:36 UTC] PHP  10. Closure->{closure:/home/ubuntu/workspace/app/app/Http/routes.php:21-34}() /home/ubuntu/workspace/app/vendor/illuminate/container/Container.php:507
+[20-Jul-2016 19:23:13 UTC] PHP Warning:  The use statement with non-compound name 'Log' has no effect in /home/ubuntu/workspace/app/app/Http/routes.php on line 3
+[20-Jul-2016 19:23:13 UTC] PHP Stack trace:
+[20-Jul-2016 19:23:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/public/index.php:0
+[20-Jul-2016 19:23:13 UTC] PHP   2. require() /home/ubuntu/workspace/app/public/index.php:14
+[20-Jul-2016 19:23:13 UTC] PHP   3. Laravel\Lumen\Application->group() /home/ubuntu/workspace/app/bootstrap/app.php:98
+[20-Jul-2016 19:23:13 UTC] PHP   4. call_user_func:{/home/ubuntu/workspace/app/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:92}() /home/ubuntu/workspace/app/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:92
+[20-Jul-2016 19:23:13 UTC] PHP   5. {closure:/home/ubuntu/workspace/app/bootstrap/app.php:96-98}() /home/ubuntu/workspace/app/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:92
+[20-Jul-2016 19:26:49 UTC] PHP Warning:  The use statement with non-compound name 'Log' has no effect in /home/ubuntu/workspace/app/app/Http/routes.php on line 3
+[20-Jul-2016 19:26:49 UTC] PHP Stack trace:
+[20-Jul-2016 19:26:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/public/index.php:0
+[20-Jul-2016 19:26:49 UTC] PHP   2. require() /home/ubuntu/workspace/app/public/index.php:14
+[20-Jul-2016 19:26:49 UTC] PHP   3. Laravel\Lumen\Application->group() /home/ubuntu/workspace/app/bootstrap/app.php:98
+[20-Jul-2016 19:26:49 UTC] PHP   4. call_user_func:{/home/ubuntu/workspace/app/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:92}() /home/ubuntu/workspace/app/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:92
+[20-Jul-2016 19:26:49 UTC] PHP   5. {closure:/home/ubuntu/workspace/app/bootstrap/app.php:96-98}() /home/ubuntu/workspace/app/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:92
+[20-Jul-2016 19:28:27 UTC] PHP Warning:  The use statement with non-compound name 'Log' has no effect in /home/ubuntu/workspace/app/app/Http/routes.php on line 3
+[20-Jul-2016 19:28:27 UTC] PHP Stack trace:
+[20-Jul-2016 19:28:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/public/index.php:0
+[20-Jul-2016 19:28:27 UTC] PHP   2. require() /home/ubuntu/workspace/app/public/index.php:14
+[20-Jul-2016 19:28:27 UTC] PHP   3. Laravel\Lumen\Application->group() /home/ubuntu/workspace/app/bootstrap/app.php:98
+[20-Jul-2016 19:28:27 UTC] PHP   4. call_user_func:{/home/ubuntu/workspace/app/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:92}() /home/ubuntu/workspace/app/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:92
+[20-Jul-2016 19:28:27 UTC] PHP   5. {closure:/home/ubuntu/workspace/app/bootstrap/app.php:96-98}() /home/ubuntu/workspace/app/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:92
+[20-Jul-2016 19:29:53 UTC] PHP Warning:  The use statement with non-compound name 'Log' has no effect in /home/ubuntu/workspace/app/app/Http/routes.php on line 3
+[20-Jul-2016 19:29:53 UTC] PHP Stack trace:
+[20-Jul-2016 19:29:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/public/index.php:0
+[20-Jul-2016 19:29:53 UTC] PHP   2. require() /home/ubuntu/workspace/app/public/index.php:14
+[20-Jul-2016 19:29:53 UTC] PHP   3. Laravel\Lumen\Application->group() /home/ubuntu/workspace/app/bootstrap/app.php:98
+[20-Jul-2016 19:29:53 UTC] PHP   4. call_user_func:{/home/ubuntu/workspace/app/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:92}() /home/ubuntu/workspace/app/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:92
+[20-Jul-2016 19:29:53 UTC] PHP   5. {closure:/home/ubuntu/workspace/app/bootstrap/app.php:96-98}() /home/ubuntu/workspace/app/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:92
+[20-Jul-2016 19:31:36 UTC] PHP Warning:  The use statement with non-compound name 'Log' has no effect in /home/ubuntu/workspace/app/app/Http/routes.php on line 3
+[20-Jul-2016 19:31:36 UTC] PHP Stack trace:
+[20-Jul-2016 19:31:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/public/index.php:0
+[20-Jul-2016 19:31:36 UTC] PHP   2. require() /home/ubuntu/workspace/app/public/index.php:14
+[20-Jul-2016 19:31:36 UTC] PHP   3. Laravel\Lumen\Application->group() /home/ubuntu/workspace/app/bootstrap/app.php:98
+[20-Jul-2016 19:31:36 UTC] PHP   4. call_user_func:{/home/ubuntu/workspace/app/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:92}() /home/ubuntu/workspace/app/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:92
+[20-Jul-2016 19:31:36 UTC] PHP   5. {closure:/home/ubuntu/workspace/app/bootstrap/app.php:96-98}() /home/ubuntu/workspace/app/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:92
+[20-Jul-2016 19:46:31 UTC] PHP Warning:  The use statement with non-compound name 'Log' has no effect in /home/ubuntu/workspace/app/app/Http/routes.php on line 3
+[20-Jul-2016 19:46:31 UTC] PHP Stack trace:
+[20-Jul-2016 19:46:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/public/index.php:0
+[20-Jul-2016 19:46:31 UTC] PHP   2. require() /home/ubuntu/workspace/app/public/index.php:14
+[20-Jul-2016 19:46:31 UTC] PHP   3. Laravel\Lumen\Application->group() /home/ubuntu/workspace/app/bootstrap/app.php:98
+[20-Jul-2016 19:46:31 UTC] PHP   4. call_user_func:{/home/ubuntu/workspace/app/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:92}() /home/ubuntu/workspace/app/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:92
+[20-Jul-2016 19:46:31 UTC] PHP   5. {closure:/home/ubuntu/workspace/app/bootstrap/app.php:96-98}() /home/ubuntu/workspace/app/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:92
+[20-Jul-2016 19:46:31 UTC] PHP Parse error:  syntax error, unexpected '(' in /home/ubuntu/workspace/app/app/Http/routes.php on line 33
+[20-Jul-2016 19:46:31 UTC] PHP Stack trace:
+[20-Jul-2016 19:46:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/public/index.php:0
+[20-Jul-2016 19:46:31 UTC] PHP   2. require() /home/ubuntu/workspace/app/public/index.php:14
+[20-Jul-2016 19:46:31 UTC] PHP   3. Laravel\Lumen\Application->group() /home/ubuntu/workspace/app/bootstrap/app.php:98
+[20-Jul-2016 19:46:31 UTC] PHP   4. call_user_func:{/home/ubuntu/workspace/app/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:92}() /home/ubuntu/workspace/app/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:92
+[20-Jul-2016 19:46:31 UTC] PHP   5. {closure:/home/ubuntu/workspace/app/bootstrap/app.php:96-98}() /home/ubuntu/workspace/app/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:92
+[20-Jul-2016 19:49:30 UTC] PHP Warning:  The use statement with non-compound name 'Log' has no effect in /home/ubuntu/workspace/app/app/Http/routes.php on line 3
+[20-Jul-2016 19:49:30 UTC] PHP Stack trace:
+[20-Jul-2016 19:49:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/public/index.php:0
+[20-Jul-2016 19:49:30 UTC] PHP   2. require() /home/ubuntu/workspace/app/public/index.php:14
+[20-Jul-2016 19:49:30 UTC] PHP   3. Laravel\Lumen\Application->group() /home/ubuntu/workspace/app/bootstrap/app.php:98
+[20-Jul-2016 19:49:30 UTC] PHP   4. call_user_func:{/home/ubuntu/workspace/app/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:92}() /home/ubuntu/workspace/app/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:92
+[20-Jul-2016 19:49:30 UTC] PHP   5. {closure:/home/ubuntu/workspace/app/bootstrap/app.php:96-98}() /home/ubuntu/workspace/app/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:92
+[20-Jul-2016 19:50:48 UTC] PHP Warning:  The use statement with non-compound name 'Log' has no effect in /home/ubuntu/workspace/app/app/Http/routes.php on line 3
+[20-Jul-2016 19:50:48 UTC] PHP Stack trace:
+[20-Jul-2016 19:50:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/public/index.php:0
+[20-Jul-2016 19:50:48 UTC] PHP   2. require() /home/ubuntu/workspace/app/public/index.php:14
+[20-Jul-2016 19:50:48 UTC] PHP   3. Laravel\Lumen\Application->group() /home/ubuntu/workspace/app/bootstrap/app.php:98
+[20-Jul-2016 19:50:48 UTC] PHP   4. call_user_func:{/home/ubuntu/workspace/app/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:92}() /home/ubuntu/workspace/app/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:92
+[20-Jul-2016 19:50:48 UTC] PHP   5. {closure:/home/ubuntu/workspace/app/bootstrap/app.php:96-98}() /home/ubuntu/workspace/app/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:92
+[20-Jul-2016 19:51:23 UTC] PHP Warning:  The use statement with non-compound name 'Log' has no effect in /home/ubuntu/workspace/app/app/Http/routes.php on line 3
+[20-Jul-2016 19:51:23 UTC] PHP Stack trace:
+[20-Jul-2016 19:51:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/public/index.php:0
+[20-Jul-2016 19:51:23 UTC] PHP   2. require() /home/ubuntu/workspace/app/public/index.php:14
+[20-Jul-2016 19:51:23 UTC] PHP   3. Laravel\Lumen\Application->group() /home/ubuntu/workspace/app/bootstrap/app.php:98
+[20-Jul-2016 19:51:23 UTC] PHP   4. call_user_func:{/home/ubuntu/workspace/app/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:92}() /home/ubuntu/workspace/app/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:92
+[20-Jul-2016 19:51:23 UTC] PHP   5. {closure:/home/ubuntu/workspace/app/bootstrap/app.php:96-98}() /home/ubuntu/workspace/app/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:92
+[20-Jul-2016 20:01:11 UTC] PHP Warning:  The use statement with non-compound name 'Log' has no effect in /home/ubuntu/workspace/app/app/Http/routes.php on line 3
+[20-Jul-2016 20:01:11 UTC] PHP Stack trace:
+[20-Jul-2016 20:01:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/public/index.php:0
+[20-Jul-2016 20:01:11 UTC] PHP   2. require() /home/ubuntu/workspace/app/public/index.php:14
+[20-Jul-2016 20:01:11 UTC] PHP   3. Laravel\Lumen\Application->group() /home/ubuntu/workspace/app/bootstrap/app.php:98
+[20-Jul-2016 20:01:11 UTC] PHP   4. call_user_func:{/home/ubuntu/workspace/app/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:92}() /home/ubuntu/workspace/app/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:92
+[20-Jul-2016 20:01:11 UTC] PHP   5. {closure:/home/ubuntu/workspace/app/bootstrap/app.php:96-98}() /home/ubuntu/workspace/app/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:92
+[21-Jul-2016 01:36:31 UTC] PHP Fatal error:  Call to undefined function error() in /home/ubuntu/workspace/app/app/Http/routes.php on line 37
+[21-Jul-2016 01:36:31 UTC] PHP Stack trace:
+[21-Jul-2016 01:36:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/public/index.php:0
+[21-Jul-2016 01:36:31 UTC] PHP   2. Laravel\Lumen\Application->run() /home/ubuntu/workspace/app/public/index.php:28
+[21-Jul-2016 01:36:31 UTC] PHP   3. Laravel\Lumen\Application->dispatch() /home/ubuntu/workspace/app/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:334
+[21-Jul-2016 01:36:31 UTC] PHP   4. Laravel\Lumen\Application->sendThroughPipeline() /home/ubuntu/workspace/app/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:389
+[21-Jul-2016 01:36:31 UTC] PHP   5. Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}() /home/ubuntu/workspace/app/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:636
+[21-Jul-2016 01:36:31 UTC] PHP   6. Laravel\Lumen\Application->handleFoundRoute() /home/ubuntu/workspace/app/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:383
+[21-Jul-2016 01:36:31 UTC] PHP   7. Laravel\Lumen\Application->callActionOnArrayBasedRoute() /home/ubuntu/workspace/app/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:486
+[21-Jul-2016 01:36:31 UTC] PHP   8. Illuminate\Container\Container->call() /home/ubuntu/workspace/app/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:512
+[21-Jul-2016 01:36:31 UTC] PHP   9. call_user_func_array:{/home/ubuntu/workspace/app/vendor/illuminate/container/Container.php:507}() /home/ubuntu/workspace/app/vendor/illuminate/container/Container.php:507
+[21-Jul-2016 01:36:31 UTC] PHP  10. Closure->{closure:/home/ubuntu/workspace/app/app/Http/routes.php:26-48}() /home/ubuntu/workspace/app/vendor/illuminate/container/Container.php:507
+[21-Jul-2016 01:36:31 UTC] PHP Fatal error:  Call to undefined function error() in /home/ubuntu/workspace/app/app/Http/routes.php on line 37
+[21-Jul-2016 01:36:31 UTC] PHP Stack trace:
+[21-Jul-2016 01:36:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/public/index.php:0
+[21-Jul-2016 01:36:31 UTC] PHP   2. Laravel\Lumen\Application->run() /home/ubuntu/workspace/app/public/index.php:28
+[21-Jul-2016 01:36:31 UTC] PHP   3. Laravel\Lumen\Application->dispatch() /home/ubuntu/workspace/app/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:334
+[21-Jul-2016 01:36:31 UTC] PHP   4. Laravel\Lumen\Application->sendThroughPipeline() /home/ubuntu/workspace/app/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:389
+[21-Jul-2016 01:36:31 UTC] PHP   5. Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}() /home/ubuntu/workspace/app/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:636
+[21-Jul-2016 01:36:31 UTC] PHP   6. Laravel\Lumen\Application->handleFoundRoute() /home/ubuntu/workspace/app/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:383
+[21-Jul-2016 01:36:31 UTC] PHP   7. Laravel\Lumen\Application->callActionOnArrayBasedRoute() /home/ubuntu/workspace/app/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:486
+[21-Jul-2016 01:36:31 UTC] PHP   8. Illuminate\Container\Container->call() /home/ubuntu/workspace/app/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:512
+[21-Jul-2016 01:36:31 UTC] PHP   9. call_user_func_array:{/home/ubuntu/workspace/app/vendor/illuminate/container/Container.php:507}() /home/ubuntu/workspace/app/vendor/illuminate/container/Container.php:507
+[21-Jul-2016 01:36:31 UTC] PHP  10. Closure->{closure:/home/ubuntu/workspace/app/app/Http/routes.php:26-48}() /home/ubuntu/workspace/app/vendor/illuminate/container/Container.php:507
+[21-Jul-2016 01:36:32 UTC] PHP Fatal error:  Call to undefined function error() in /home/ubuntu/workspace/app/app/Http/routes.php on line 37
+[21-Jul-2016 01:36:32 UTC] PHP Fatal error:  Call to undefined function error() in /home/ubuntu/workspace/app/app/Http/routes.php on line 37
+[21-Jul-2016 01:36:32 UTC] PHP Stack trace:
+[21-Jul-2016 01:36:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/public/index.php:0
+[21-Jul-2016 01:36:32 UTC] PHP Stack trace:
+[21-Jul-2016 01:36:32 UTC] PHP   2. Laravel\Lumen\Application->run() /home/ubuntu/workspace/app/public/index.php:28
+[21-Jul-2016 01:36:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/public/index.php:0
+[21-Jul-2016 01:36:32 UTC] PHP   3. Laravel\Lumen\Application->dispatch() /home/ubuntu/workspace/app/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:334
+[21-Jul-2016 01:36:32 UTC] PHP   4. Laravel\Lumen\Application->sendThroughPipeline() /home/ubuntu/workspace/app/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:389
+[21-Jul-2016 01:36:32 UTC] PHP   2. Laravel\Lumen\Application->run() /home/ubuntu/workspace/app/public/index.php:28
+[21-Jul-2016 01:36:32 UTC] PHP   5. Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}() /home/ubuntu/workspace/app/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:636
+[21-Jul-2016 01:36:32 UTC] PHP   6. Laravel\Lumen\Application->handleFoundRoute() /home/ubuntu/workspace/app/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:383
+[21-Jul-2016 01:36:32 UTC] PHP   3. Laravel\Lumen\Application->dispatch() /home/ubuntu/workspace/app/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:334
+[21-Jul-2016 01:36:32 UTC] PHP   7. Laravel\Lumen\Application->callActionOnArrayBasedRoute() /home/ubuntu/workspace/app/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:486
+[21-Jul-2016 01:36:32 UTC] PHP   8. Illuminate\Container\Container->call() /home/ubuntu/workspace/app/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:512
+[21-Jul-2016 01:36:32 UTC] PHP   4. Laravel\Lumen\Application->sendThroughPipeline() /home/ubuntu/workspace/app/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:389
+[21-Jul-2016 01:36:32 UTC] PHP   5. Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}() /home/ubuntu/workspace/app/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:636
+[21-Jul-2016 01:36:32 UTC] PHP   9. call_user_func_array:{/home/ubuntu/workspace/app/vendor/illuminate/container/Container.php:507}() /home/ubuntu/workspace/app/vendor/illuminate/container/Container.php:507
+[21-Jul-2016 01:36:32 UTC] PHP  10. Closure->{closure:/home/ubuntu/workspace/app/app/Http/routes.php:26-48}() /home/ubuntu/workspace/app/vendor/illuminate/container/Container.php:507
+[21-Jul-2016 01:36:32 UTC] PHP   6. Laravel\Lumen\Application->handleFoundRoute() /home/ubuntu/workspace/app/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:383
+[21-Jul-2016 01:36:32 UTC] PHP   7. Laravel\Lumen\Application->callActionOnArrayBasedRoute() /home/ubuntu/workspace/app/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:486
+[21-Jul-2016 01:36:32 UTC] PHP   8. Illuminate\Container\Container->call() /home/ubuntu/workspace/app/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:512
+[21-Jul-2016 01:36:32 UTC] PHP   9. call_user_func_array:{/home/ubuntu/workspace/app/vendor/illuminate/container/Container.php:507}() /home/ubuntu/workspace/app/vendor/illuminate/container/Container.php:507
+[21-Jul-2016 01:36:32 UTC] PHP  10. Closure->{closure:/home/ubuntu/workspace/app/app/Http/routes.php:26-48}() /home/ubuntu/workspace/app/vendor/illuminate/container/Container.php:507
+[21-Jul-2016 01:36:32 UTC] PHP Fatal error:  Call to undefined function error() in /home/ubuntu/workspace/app/app/Http/routes.php on line 37
+[21-Jul-2016 01:36:32 UTC] PHP Stack trace:
+[21-Jul-2016 01:36:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/public/index.php:0
+[21-Jul-2016 01:36:32 UTC] PHP   2. Laravel\Lumen\Application->run() /home/ubuntu/workspace/app/public/index.php:28
+[21-Jul-2016 01:36:32 UTC] PHP   3. Laravel\Lumen\Application->dispatch() /home/ubuntu/workspace/app/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:334
+[21-Jul-2016 01:36:32 UTC] PHP   4. Laravel\Lumen\Application->sendThroughPipeline() /home/ubuntu/workspace/app/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:389
+[21-Jul-2016 01:36:32 UTC] PHP   5. Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}() /home/ubuntu/workspace/app/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:636
+[21-Jul-2016 01:36:32 UTC] PHP   6. Laravel\Lumen\Application->handleFoundRoute() /home/ubuntu/workspace/app/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:383
+[21-Jul-2016 01:36:32 UTC] PHP   7. Laravel\Lumen\Application->callActionOnArrayBasedRoute() /home/ubuntu/workspace/app/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:486
+[21-Jul-2016 01:36:32 UTC] PHP   8. Illuminate\Container\Container->call() /home/ubuntu/workspace/app/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:512
+[21-Jul-2016 01:36:32 UTC] PHP   9. call_user_func_array:{/home/ubuntu/workspace/app/vendor/illuminate/container/Container.php:507}() /home/ubuntu/workspace/app/vendor/illuminate/container/Container.php:507
+[21-Jul-2016 01:36:32 UTC] PHP  10. Closure->{closure:/home/ubuntu/workspace/app/app/Http/routes.php:26-48}() /home/ubuntu/workspace/app/vendor/illuminate/container/Container.php:507
+[21-Jul-2016 01:36:32 UTC] PHP Fatal error:  Call to undefined function error() in /home/ubuntu/workspace/app/app/Http/routes.php on line 37
+[21-Jul-2016 01:36:32 UTC] PHP Stack trace:
+[21-Jul-2016 01:36:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/public/index.php:0
+[21-Jul-2016 01:36:32 UTC] PHP   2. Laravel\Lumen\Application->run() /home/ubuntu/workspace/app/public/index.php:28
+[21-Jul-2016 01:36:32 UTC] PHP   3. Laravel\Lumen\Application->dispatch() /home/ubuntu/workspace/app/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:334
+[21-Jul-2016 01:36:32 UTC] PHP   4. Laravel\Lumen\Application->sendThroughPipeline() /home/ubuntu/workspace/app/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:389
+[21-Jul-2016 01:36:32 UTC] PHP   5. Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}() /home/ubuntu/workspace/app/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:636
+[21-Jul-2016 01:36:32 UTC] PHP   6. Laravel\Lumen\Application->handleFoundRoute() /home/ubuntu/workspace/app/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:383
+[21-Jul-2016 01:36:32 UTC] PHP   7. Laravel\Lumen\Application->callActionOnArrayBasedRoute() /home/ubuntu/workspace/app/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:486
+[21-Jul-2016 01:36:32 UTC] PHP   8. Illuminate\Container\Container->call() /home/ubuntu/workspace/app/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:512
+[21-Jul-2016 01:36:32 UTC] PHP   9. call_user_func_array:{/home/ubuntu/workspace/app/vendor/illuminate/container/Container.php:507}() /home/ubuntu/workspace/app/vendor/illuminate/container/Container.php:507
+[21-Jul-2016 01:36:32 UTC] PHP  10. Closure->{closure:/home/ubuntu/workspace/app/app/Http/routes.php:26-48}() /home/ubuntu/workspace/app/vendor/illuminate/container/Container.php:507
+[21-Jul-2016 01:36:32 UTC] PHP Fatal error:  Call to undefined function error() in /home/ubuntu/workspace/app/app/Http/routes.php on line 37
+[21-Jul-2016 01:36:32 UTC] PHP Stack trace:
+[21-Jul-2016 01:36:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/public/index.php:0
+[21-Jul-2016 01:36:32 UTC] PHP   2. Laravel\Lumen\Application->run() /home/ubuntu/workspace/app/public/index.php:28
+[21-Jul-2016 01:36:32 UTC] PHP   3. Laravel\Lumen\Application->dispatch() /home/ubuntu/workspace/app/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:334
+[21-Jul-2016 01:36:32 UTC] PHP   4. Laravel\Lumen\Application->sendThroughPipeline() /home/ubuntu/workspace/app/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:389
+[21-Jul-2016 01:36:32 UTC] PHP   5. Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}() /home/ubuntu/workspace/app/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:636
+[21-Jul-2016 01:36:32 UTC] PHP   6. Laravel\Lumen\Application->handleFoundRoute() /home/ubuntu/workspace/app/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:383
+[21-Jul-2016 01:36:32 UTC] PHP   7. Laravel\Lumen\Application->callActionOnArrayBasedRoute() /home/ubuntu/workspace/app/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:486
+[21-Jul-2016 01:36:32 UTC] PHP   8. Illuminate\Container\Container->call() /home/ubuntu/workspace/app/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:512
+[21-Jul-2016 01:36:32 UTC] PHP   9. call_user_func_array:{/home/ubuntu/workspace/app/vendor/illuminate/container/Container.php:507}() /home/ubuntu/workspace/app/vendor/illuminate/container/Container.php:507
+[21-Jul-2016 01:36:32 UTC] PHP  10. Closure->{closure:/home/ubuntu/workspace/app/app/Http/routes.php:26-48}() /home/ubuntu/workspace/app/vendor/illuminate/container/Container.php:507
+[21-Jul-2016 01:36:32 UTC] PHP Fatal error:  Call to undefined function error() in /home/ubuntu/workspace/app/app/Http/routes.php on line 37
+[21-Jul-2016 01:36:32 UTC] PHP Stack trace:
+[21-Jul-2016 01:36:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/public/index.php:0
+[21-Jul-2016 01:36:32 UTC] PHP   2. Laravel\Lumen\Application->run() /home/ubuntu/workspace/app/public/index.php:28
+[21-Jul-2016 01:36:32 UTC] PHP   3. Laravel\Lumen\Application->dispatch() /home/ubuntu/workspace/app/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:334
+[21-Jul-2016 01:36:32 UTC] PHP   4. Laravel\Lumen\Application->sendThroughPipeline() /home/ubuntu/workspace/app/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:389
+[21-Jul-2016 01:36:32 UTC] PHP   5. Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}() /home/ubuntu/workspace/app/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:636
+[21-Jul-2016 01:36:32 UTC] PHP   6. Laravel\Lumen\Application->handleFoundRoute() /home/ubuntu/workspace/app/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:383
+[21-Jul-2016 01:36:32 UTC] PHP   7. Laravel\Lumen\Application->callActionOnArrayBasedRoute() /home/ubuntu/workspace/app/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:486
+[21-Jul-2016 01:36:32 UTC] PHP   8. Illuminate\Container\Container->call() /home/ubuntu/workspace/app/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:512
+[21-Jul-2016 01:36:32 UTC] PHP   9. call_user_func_array:{/home/ubuntu/workspace/app/vendor/illuminate/container/Container.php:507}() /home/ubuntu/workspace/app/vendor/illuminate/container/Container.php:507
+[21-Jul-2016 01:36:32 UTC] PHP  10. Closure->{closure:/home/ubuntu/workspace/app/app/Http/routes.php:26-48}() /home/ubuntu/workspace/app/vendor/illuminate/container/Container.php:507
+[21-Jul-2016 01:36:32 UTC] PHP Fatal error:  Call to undefined function error() in /home/ubuntu/workspace/app/app/Http/routes.php on line 37
+[21-Jul-2016 01:36:32 UTC] PHP Stack trace:
+[21-Jul-2016 01:36:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/public/index.php:0
+[21-Jul-2016 01:36:32 UTC] PHP   2. Laravel\Lumen\Application->run() /home/ubuntu/workspace/app/public/index.php:28
+[21-Jul-2016 01:36:32 UTC] PHP   3. Laravel\Lumen\Application->dispatch() /home/ubuntu/workspace/app/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:334
+[21-Jul-2016 01:36:32 UTC] PHP   4. Laravel\Lumen\Application->sendThroughPipeline() /home/ubuntu/workspace/app/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:389
+[21-Jul-2016 01:36:32 UTC] PHP   5. Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}() /home/ubuntu/workspace/app/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:636
+[21-Jul-2016 01:36:32 UTC] PHP   6. Laravel\Lumen\Application->handleFoundRoute() /home/ubuntu/workspace/app/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:383
+[21-Jul-2016 01:36:32 UTC] PHP   7. Laravel\Lumen\Application->callActionOnArrayBasedRoute() /home/ubuntu/workspace/app/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:486
+[21-Jul-2016 01:36:32 UTC] PHP   8. Illuminate\Container\Container->call() /home/ubuntu/workspace/app/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:512
+[21-Jul-2016 01:36:32 UTC] PHP   9. call_user_func_array:{/home/ubuntu/workspace/app/vendor/illuminate/container/Container.php:507}() /home/ubuntu/workspace/app/vendor/illuminate/container/Container.php:507
+[21-Jul-2016 01:36:32 UTC] PHP  10. Closure->{closure:/home/ubuntu/workspace/app/app/Http/routes.php:26-48}() /home/ubuntu/workspace/app/vendor/illuminate/container/Container.php:507
+[21-Jul-2016 01:36:32 UTC] PHP Fatal error:  Call to undefined function error() in /home/ubuntu/workspace/app/app/Http/routes.php on line 37
+[21-Jul-2016 01:36:32 UTC] PHP Stack trace:
+[21-Jul-2016 01:36:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/public/index.php:0
+[21-Jul-2016 01:36:32 UTC] PHP   2. Laravel\Lumen\Application->run() /home/ubuntu/workspace/app/public/index.php:28
+[21-Jul-2016 01:36:32 UTC] PHP   3. Laravel\Lumen\Application->dispatch() /home/ubuntu/workspace/app/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:334
+[21-Jul-2016 01:36:32 UTC] PHP   4. Laravel\Lumen\Application->sendThroughPipeline() /home/ubuntu/workspace/app/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:389
+[21-Jul-2016 01:36:32 UTC] PHP   5. Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}() /home/ubuntu/workspace/app/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:636
+[21-Jul-2016 01:36:32 UTC] PHP   6. Laravel\Lumen\Application->handleFoundRoute() /home/ubuntu/workspace/app/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:383
+[21-Jul-2016 01:36:32 UTC] PHP   7. Laravel\Lumen\Application->callActionOnArrayBasedRoute() /home/ubuntu/workspace/app/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:486
+[21-Jul-2016 01:36:32 UTC] PHP   8. Illuminate\Container\Container->call() /home/ubuntu/workspace/app/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:512
+[21-Jul-2016 01:36:32 UTC] PHP   9. call_user_func_array:{/home/ubuntu/workspace/app/vendor/illuminate/container/Container.php:507}() /home/ubuntu/workspace/app/vendor/illuminate/container/Container.php:507
+[21-Jul-2016 01:36:32 UTC] PHP  10. Closure->{closure:/home/ubuntu/workspace/app/app/Http/routes.php:26-48}() /home/ubuntu/workspace/app/vendor/illuminate/container/Container.php:507
+[21-Jul-2016 01:36:32 UTC] PHP Fatal error:  Call to undefined function error() in /home/ubuntu/workspace/app/app/Http/routes.php on line 37
+[21-Jul-2016 01:36:32 UTC] PHP Stack trace:
+[21-Jul-2016 01:36:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/public/index.php:0
+[21-Jul-2016 01:36:32 UTC] PHP   2. Laravel\Lumen\Application->run() /home/ubuntu/workspace/app/public/index.php:28
+[21-Jul-2016 01:36:32 UTC] PHP   3. Laravel\Lumen\Application->dispatch() /home/ubuntu/workspace/app/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:334
+[21-Jul-2016 01:36:32 UTC] PHP   4. Laravel\Lumen\Application->sendThroughPipeline() /home/ubuntu/workspace/app/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:389
+[21-Jul-2016 01:36:32 UTC] PHP   5. Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}() /home/ubuntu/workspace/app/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:636
+[21-Jul-2016 01:36:32 UTC] PHP   6. Laravel\Lumen\Application->handleFoundRoute() /home/ubuntu/workspace/app/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:383
+[21-Jul-2016 01:36:32 UTC] PHP   7. Laravel\Lumen\Application->callActionOnArrayBasedRoute() /home/ubuntu/workspace/app/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:486
+[21-Jul-2016 01:36:32 UTC] PHP   8. Illuminate\Container\Container->call() /home/ubuntu/workspace/app/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:512
+[21-Jul-2016 01:36:32 UTC] PHP   9. call_user_func_array:{/home/ubuntu/workspace/app/vendor/illuminate/container/Container.php:507}() /home/ubuntu/workspace/app/vendor/illuminate/container/Container.php:507
+[21-Jul-2016 01:36:32 UTC] PHP  10. Closure->{closure:/home/ubuntu/workspace/app/app/Http/routes.php:26-48}() /home/ubuntu/workspace/app/vendor/illuminate/container/Container.php:507
+[21-Jul-2016 01:36:32 UTC] PHP Fatal error:  Call to undefined function error() in /home/ubuntu/workspace/app/app/Http/routes.php on line 37
+[21-Jul-2016 01:36:32 UTC] PHP Stack trace:
+[21-Jul-2016 01:36:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/public/index.php:0
+[21-Jul-2016 01:36:32 UTC] PHP   2. Laravel\Lumen\Application->run() /home/ubuntu/workspace/app/public/index.php:28
+[21-Jul-2016 01:36:32 UTC] PHP   3. Laravel\Lumen\Application->dispatch() /home/ubuntu/workspace/app/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:334
+[21-Jul-2016 01:36:32 UTC] PHP   4. Laravel\Lumen\Application->sendThroughPipeline() /home/ubuntu/workspace/app/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:389
+[21-Jul-2016 01:36:32 UTC] PHP   5. Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}() /home/ubuntu/workspace/app/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:636
+[21-Jul-2016 01:36:32 UTC] PHP   6. Laravel\Lumen\Application->handleFoundRoute() /home/ubuntu/workspace/app/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:383
+[21-Jul-2016 01:36:32 UTC] PHP   7. Laravel\Lumen\Application->callActionOnArrayBasedRoute() /home/ubuntu/workspace/app/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:486
+[21-Jul-2016 01:36:32 UTC] PHP   8. Illuminate\Container\Container->call() /home/ubuntu/workspace/app/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:512
+[21-Jul-2016 01:36:32 UTC] PHP   9. call_user_func_array:{/home/ubuntu/workspace/app/vendor/illuminate/container/Container.php:507}() /home/ubuntu/workspace/app/vendor/illuminate/container/Container.php:507
+[21-Jul-2016 01:36:32 UTC] PHP  10. Closure->{closure:/home/ubuntu/workspace/app/app/Http/routes.php:26-48}() /home/ubuntu/workspace/app/vendor/illuminate/container/Container.php:507
+[21-Jul-2016 01:36:32 UTC] PHP Fatal error:  Call to undefined function error() in /home/ubuntu/workspace/app/app/Http/routes.php on line 37
+[21-Jul-2016 01:36:32 UTC] PHP Stack trace:
+[21-Jul-2016 01:36:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/public/index.php:0
+[21-Jul-2016 01:36:32 UTC] PHP   2. Laravel\Lumen\Application->run() /home/ubuntu/workspace/app/public/index.php:28
+[21-Jul-2016 01:36:32 UTC] PHP   3. Laravel\Lumen\Application->dispatch() /home/ubuntu/workspace/app/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:334
+[21-Jul-2016 01:36:32 UTC] PHP   4. Laravel\Lumen\Application->sendThroughPipeline() /home/ubuntu/workspace/app/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:389
+[21-Jul-2016 01:36:32 UTC] PHP   5. Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}() /home/ubuntu/workspace/app/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:636
+[21-Jul-2016 01:36:32 UTC] PHP   6. Laravel\Lumen\Application->handleFoundRoute() /home/ubuntu/workspace/app/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:383
+[21-Jul-2016 01:36:32 UTC] PHP   7. Laravel\Lumen\Application->callActionOnArrayBasedRoute() /home/ubuntu/workspace/app/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:486
+[21-Jul-2016 01:36:32 UTC] PHP   8. Illuminate\Container\Container->call() /home/ubuntu/workspace/app/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:512
+[21-Jul-2016 01:36:32 UTC] PHP   9. call_user_func_array:{/home/ubuntu/workspace/app/vendor/illuminate/container/Container.php:507}() /home/ubuntu/workspace/app/vendor/illuminate/container/Container.php:507
+[21-Jul-2016 01:36:32 UTC] PHP  10. Closure->{closure:/home/ubuntu/workspace/app/app/Http/routes.php:26-48}() /home/ubuntu/workspace/app/vendor/illuminate/container/Container.php:507
+[21-Jul-2016 01:36:32 UTC] PHP Fatal error:  Call to undefined function error() in /home/ubuntu/workspace/app/app/Http/routes.php on line 37
+[21-Jul-2016 01:36:32 UTC] PHP Stack trace:
+[21-Jul-2016 01:36:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/public/index.php:0
+[21-Jul-2016 01:36:32 UTC] PHP   2. Laravel\Lumen\Application->run() /home/ubuntu/workspace/app/public/index.php:28
+[21-Jul-2016 01:36:32 UTC] PHP   3. Laravel\Lumen\Application->dispatch() /home/ubuntu/workspace/app/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:334
+[21-Jul-2016 01:36:32 UTC] PHP   4. Laravel\Lumen\Application->sendThroughPipeline() /home/ubuntu/workspace/app/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:389
+[21-Jul-2016 01:36:32 UTC] PHP   5. Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}() /home/ubuntu/workspace/app/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:636
+[21-Jul-2016 01:36:32 UTC] PHP   6. Laravel\Lumen\Application->handleFoundRoute() /home/ubuntu/workspace/app/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:383
+[21-Jul-2016 01:36:32 UTC] PHP   7. Laravel\Lumen\Application->callActionOnArrayBasedRoute() /home/ubuntu/workspace/app/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:486
+[21-Jul-2016 01:36:32 UTC] PHP   8. Illuminate\Container\Container->call() /home/ubuntu/workspace/app/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:512
+[21-Jul-2016 01:36:32 UTC] PHP   9. call_user_func_array:{/home/ubuntu/workspace/app/vendor/illuminate/container/Container.php:507}() /home/ubuntu/workspace/app/vendor/illuminate/container/Container.php:507
+[21-Jul-2016 01:36:32 UTC] PHP  10. Closure->{closure:/home/ubuntu/workspace/app/app/Http/routes.php:26-48}() /home/ubuntu/workspace/app/vendor/illuminate/container/Container.php:507
+[21-Jul-2016 01:36:32 UTC] PHP Fatal error:  Call to undefined function error() in /home/ubuntu/workspace/app/app/Http/routes.php on line 37
+[21-Jul-2016 01:36:32 UTC] PHP Stack trace:
+[21-Jul-2016 01:36:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/public/index.php:0
+[21-Jul-2016 01:36:32 UTC] PHP   2. Laravel\Lumen\Application->run() /home/ubuntu/workspace/app/public/index.php:28
+[21-Jul-2016 01:36:32 UTC] PHP   3. Laravel\Lumen\Application->dispatch() /home/ubuntu/workspace/app/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:334
+[21-Jul-2016 01:36:32 UTC] PHP   4. Laravel\Lumen\Application->sendThroughPipeline() /home/ubuntu/workspace/app/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:389
+[21-Jul-2016 01:36:32 UTC] PHP   5. Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}() /home/ubuntu/workspace/app/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:636
+[21-Jul-2016 01:36:32 UTC] PHP   6. Laravel\Lumen\Application->handleFoundRoute() /home/ubuntu/workspace/app/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:383
+[21-Jul-2016 01:36:32 UTC] PHP   7. Laravel\Lumen\Application->callActionOnArrayBasedRoute() /home/ubuntu/workspace/app/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:486
+[21-Jul-2016 01:36:32 UTC] PHP   8. Illuminate\Container\Container->call() /home/ubuntu/workspace/app/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:512
+[21-Jul-2016 01:36:32 UTC] PHP   9. call_user_func_array:{/home/ubuntu/workspace/app/vendor/illuminate/container/Container.php:507}() /home/ubuntu/workspace/app/vendor/illuminate/container/Container.php:507
+[21-Jul-2016 01:36:32 UTC] PHP  10. Closure->{closure:/home/ubuntu/workspace/app/app/Http/routes.php:26-48}() /home/ubuntu/workspace/app/vendor/illuminate/container/Container.php:507
